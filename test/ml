@@ -1,2 +1,6 @@
 this is new line
+<<<<<<< HEAD
 new one is added
+=======
+one more line added
+>>>>>>> extra
